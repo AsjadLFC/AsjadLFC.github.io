@@ -8,15 +8,15 @@ body {
 }
 
 .full-height {
-	min-height: 100%;
+	min-height: 30%;
 }
 
 .title {
-	line-height: 25px;
+	line-height: 100px;
 	text-align: center;
-	padding: 20px;
-	margin-bottom: 10%;
-	margin-top: 10%;
+	padding: 0px;
+	margin-bottom: 8%;
+	margin-top: 2%;
 }
 
 .description {
